@@ -1,0 +1,39 @@
+modLoader="javafml"
+loaderVersion="[44,)"
+license="GNU General Public License v3.0"
+
+[[mods]]
+    modId="stabxmodernguns"
+    version="6.2"
+    displayName="Stabx Modern Guns"
+    authors="Stabilizer King"
+    credits="Stabilizer Gaming Studio And The Community of my Stabx Server"
+    description="Addon for Mr.Crayfish's Gun Mod Adding  High Quality Gun models With better Sounds"
+
+[[dependencies.stabxmodernguns]]
+    modId="forge"
+    mandatory=true
+    versionRange="[44.1.0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.stabxmodernguns]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.3,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.stabxmodernguns]]
+    modId="cgm"
+    mandatory=true
+    versionRange="[1.3.4,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.stabxmodernguns]]
+    modId="framework"
+    mandatory=true
+    versionRange="[0.4.2,)"
+    ordering="NONE"
+    side="BOTH"
+
+[modproperties.stabxmodernguns]
+    catalogueItemIcon="stabxmodernguns:m4"
