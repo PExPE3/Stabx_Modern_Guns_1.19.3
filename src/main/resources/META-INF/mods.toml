@@ -10,7 +10,7 @@ issueTrackerURL="https://github.com/Stabilizer360/Stabx_Modern_Guns_1.19.4/issue
     authors="Stabilizer King"
     credits="Stabilizer Gaming Studio And The Community of my Stabx Discord Server"
     description="Addon for Mr.Crayfish's Gun Mod Adding  High Quality Gun models With better Sounds"
-    updateJSONURL="https://raw.githubusercontent.com/Stabilizer360/Stabx_Modern_Guns_1.19.3/master/src/main/stabilizerking/version_checker/update.json"
+    updateJSONURL="https://raw.githubusercontent.com/Stabilizer360/Stabx_Modern_Guns_1.19.3/master/update.json"
     displayURL="https://www.curseforge.com/minecraft/mc-mods/stabx-modern-guns"
 
 [[dependencies.stabxmodernguns]]
