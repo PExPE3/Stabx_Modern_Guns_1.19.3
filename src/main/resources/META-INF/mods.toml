@@ -1,14 +1,16 @@
 modLoader="javafml"
 loaderVersion="[44,)"
 license="GNU General Public License v3.0"
+issueTrackerURL="https://github.com/Stabilizer360/Stabx_Modern_Guns_1.19.4/issues"
 
 [[mods]]
     modId="stabxmodernguns"
-    version="6.3"
+    version="7.0"
     displayName="Stabx Modern Guns"
     authors="Stabilizer King"
-    credits="Stabilizer Gaming Studio And The Community of my Stabx Server"
+    credits="Stabilizer Gaming Studio And The Community of my Stabx Discord Server"
     description="Addon for Mr.Crayfish's Gun Mod Adding  High Quality Gun models With better Sounds"
+    updateJSONURL="https://github.com/Stabilizer360/Stabx_Modern_Guns_1.19.4/blob/master/update.json"
 
 [[dependencies.stabxmodernguns]]
     modId="forge"
